@@ -1,0 +1,51 @@
+h1{
+    color: red;
+}
+
+html {
+    max-width: 85vw;
+    margin: 0 auto;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header  img {
+width: 16em;
+border-radius: 20px;
+}
+
+
+section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+.container {
+    width: 85vw;
+}
+
+.aside {
+    background-color: #ddd;
+    width: 15vw;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+.island {
+    display: flex;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.island img {
+    width: 20em;
+    height: 14em;
+    margin-right: 20px;
+    border-radius: 20px;
+} 
