@@ -8,4 +8,4 @@
 // let result = pow(2,3)
 // console.log(result)
 // console.log(pow(2,4))
-// console.log(pow(5,2))
+// console.log(pow(5,2))wew
